@@ -1,0 +1,4 @@
+# Origin of the country data used in this project
+
+I started by getting a list of countries on Github, from [
+Daina Bouquin](https://github.com/dbouquin/IS_608/blob/master/NanosatDB_munging/Countries-Continents.csv), because it seemed relatively completey and contained continents. Then I started to think about secondary data that might be useful for exposing the bias in an algorithm and opted for the [World Happiness Report 2021](https://worldhappiness.report/ed/2021/#appendices-and-data). I added the continents to the countries in that file to ensure I could retain the initial categorization I used.

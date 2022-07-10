@@ -1,0 +1,74 @@
+Protected Category,Source,Words,Definition,Category
+Age,IMC,aged,,Elderly
+Age,IMC,young,,Youth
+Age,IMC,old,,Elderly
+Age,IMC,mature,,Elderly
+Age,IMC,immature,,Youth
+Age,IMC,child,,Youth
+Age,IMC,juvenile,,Youth
+Age,Addition,adolescent,,Youth
+Age,Addition,kid,,Youth
+Disability,IMC,blind,,Specific
+Disability,IMC,deaf,,Specific
+Disability,IMC,mobility,,General
+Disability,IMC,handicap,,General
+Disability,IMC,abled,,General
+Disability,IMC,disability,,General
+Disability,IMC,disabled,,General
+Gender Identity,IMC,aab,,Assignment
+Gender Identity,IMC,male,,Male
+Gender Identity,IMC,female,,Female
+Gender Identity,IMC,cis,A term used to describe a person whose gender identity aligns with those typically associated with the sex assigned to them at birth.,cis
+Gender Identity,https://www.hrc.org/resources/glossary-of-terms,cisgender,A term used to describe a person whose gender identity aligns with those typically associated with the sex assigned to them at birth.,cis
+Gender Identity,https://www.hrc.org/resources/glossary-of-terms,gender-fluid, A person who does not identify with a single fixed gender or has a fluid or unfixed gender identity.,non-binary
+Gender Identity,https://www.hrc.org/resources/glossary-of-terms,Genderqueer,"Genderqueer people typically reject notions of static categories of gender and embrace a fluidity of gender identity and often, though not always, sexual orientation. People who identify as ""genderqueer"" may see themselves as being both male and female, neither male nor female or as falling completely outside these categories.",non-binary
+Gender Identity,https://www.hrc.org/resources/glossary-of-terms,Intersex,"Intersex people are born with a variety of differences in their sex traits and reproductive anatomy. There is a wide variety of difference among intersex variations, including differences in genitalia, chromosomes, gonads, internal sex organs, hormone production, hormone response, and/or secondary sex traits.",Assignment
+Gender Identity,https://www.hrc.org/resources/glossary-of-terms,Sex assigned at birth,"The sex, male, female or intersex, that a doctor or midwife uses to describe a child at birth based on their external anatomy.",Assignment
+Gender Identity,IMC,many-genders,,many-genders
+Gender Identity,IMC,no-gender,,no-gender
+Gender Identity,IMC,non-binary,An adjective describing a person who does not identify exclusively as a man or a woman.,non-binary
+Gender Identity,IMC,trans-woman,,trans
+Gender Identity,IMC,trans-man,,trans
+Gender Identity,IMC,trans-gender,,trans
+Gender Identity,IMC,afab,,Assignment
+Gender Identity,IMC,amab,,Assignment
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,bigender,A person identifies with two distinct genders.,bi-gender
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,cis female,,cis
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,cis male,,cis
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,cis man,,cis
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,cis woman,,cis
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,female to male,,trans
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,male to female,,trans
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,FTM,,trans
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,MTF,,trans
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,neutrois,"Killerman says this French-esque term, pronounced noo-TWA, is relatively new. It’s used by people who see themselves as gender neutral, people who don’t feel any gender is a big component of their identity.",no-gender
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,agender,One sense of prefix a- is “without.”,no-gender
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,pangender,"A pangender Facebook user probably sees themselves as “a little bit of everything in the sexual catalog,” Killermann says.",many-genders
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,two-spirit,"This term, Killermann says, comes from Native American culture, describing someone who embodies both the spirits of a man and a woman.",bi-gender
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,two spirit,"This term, Killermann says, comes from Native American culture, describing someone who embodies both the spirits of a man and a woman.",bi-gender
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,androgynous,,
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,androgyne,,
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,trans,A trans person does not identify with the gender that corresponds to the sex they were assigned at birth.,trans
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,trans woman,A person who was assigned the male sex at birth but identifies as female.,trans
+Gender Identity,https://techland.time.com/2014/02/14/a-comprehensive-guide-to-facebooks-new-options-for-gender-identity/,trans man,,trans
+Sex,IMC,maternity,,Pregnancy
+Sex,IMC,motherhood,,Pregnancy
+Sex,IMC,motherhood,,Pregnancy
+Sex,IMC,parental,,Pregnancy
+Sex,IMC,pregnant,,Pregnancy
+Race,IMC,black,,Black
+Race,IMC,indian,,Native American
+Race,IMC,indigenous,,Native American
+Race,IMC,asian,,AAPI
+Race,IMC,hispanic,,Hispanic
+Race,IMC,islander,,AAPI
+Race,IMC,white,,White
+Race,IMC,european,,White
+Race,IMC,african,,Black
+Sexual Orientation,IMC,asexual,"Often called “ace” for short, asexual refers to a complete or partial lack of sexual attraction or lack of interest in sexual activity with others. Asexuality exists on a spectrum, and asexual people may experience no, little or conditional sexual attraction.",asexual
+Sexual Orientation,IMC,homosexual,,homosexual
+Sexual Orientation,IMC,heterosexual,,heterosexual
+Sexual Orientation,IMC,bisexual,"A person emotionally, romantically or sexually attracted to more than one sex, gender or gender identity though not necessarily simultaneously, in the same way or to the same degree. Sometimes used interchangeably with pansexual.",bisexual
+Sexual Orientation,IMC,pansexual,,pansexual
+Sexual Orientation,https://www.hrc.org/resources/glossary-of-terms,gay,"A person who is emotionally, romantically or sexually attracted to members of the same gender. Men, women and non-binary people may use this term to describe themselves.",homosexual
+Veteran,IMC,Veteran,,
