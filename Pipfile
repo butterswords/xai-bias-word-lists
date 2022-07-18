@@ -12,6 +12,7 @@ ethnicolr = "*"
 jupyterlab = "*"
 requests = "*"
 beautifulsoup4 = "*"
+xlrd = "*"
 
 [dev-packages]
 
