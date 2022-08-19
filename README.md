@@ -1,5 +1,5 @@
 # xai-bias-word-lists
-Welcome. This is a repository for storing word lists around Sexual Orientation and Gender Identity (SOGI), race (names and descriptors), professions, countries, and additional protected attributes as I am able to build them out. I am using these to test for bias in language models, and I believe it is more broadly applicable within NLP, AI research, and beyond. 
+Welcome. This is a repository for storing word lists around Sexual Orientation and Gender Identity (SOGI), race (names and descriptors), professions, countries, and additional protected attributes as I am able to build them out (ex. religion, disability status, age, sexual orientation, etc.). I am using these to test for bias in language models, and I believe it is more broadly applicable within NLP, AI research, and beyond. 
 
 ## Intention
 I am making it public for several reasons:
