@@ -22,6 +22,20 @@ For a more thorough explanation of my positionality read my [About Me](https://b
 
 ## Focus with sources
 
+### Current Focus Areas
+These are the main areas for this project at the start. Some may prove intractable, and exploring what makes them so may help communities find ways to provide feedback into systems.
+
+- [x] Country Names
+- [x] Professions - baseline, needs additional refinement
+- [ ] Sexual Orientation & Gender Identity (SOGI)
+- [ ] Race (Names) 
+- [ ] Race (Descriptors)
+- [ ] Religion
+- [ ] Age
+- [ ] Marital Status
+- [ ] Health Status (Disability, Pregnancy, etc.)
+- [ ] Language (AAE vs ES)
+
 ### Country
 I decided to ground my work through multiple sources. I ended up choosing the United Nations Statistical Division's [Overview](https://unstats.un.org/unsd/methodology/m49/overview/) to ground me in something public that could be used the world over.
 
