@@ -131,4 +131,3 @@ dmypy.json
 # Other
 *.tar.gz
 *.DS_Store
-**/.ipynb_checkpoints/
